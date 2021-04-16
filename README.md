@@ -30,3 +30,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+
+## Reference
+- [Streamlit Official Documentation](https://docs.streamlit.io/en/stable/)
+- [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc)
